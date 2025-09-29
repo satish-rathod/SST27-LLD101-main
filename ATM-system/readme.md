@@ -3,7 +3,7 @@
 A comprehensive ATM (Automated Teller Machine) system implementation demonstrating SOLID principles, State Pattern, Strategy Pattern, and Dependency Injection.
 
 # UML Daigram
-![UML Diagram](atm-system.drawio)
+![UML Diagram](atm-system.drawio.png)
 
 ## Package Structure
 
